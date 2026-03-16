@@ -204,9 +204,9 @@ Install the following packages for the setup to work as intended.
 - [x] Clipboard Manager
 - [x] Emoji Picker
 - [x] Color Picker
-- [ ] Customizable UI
-- [ ] More polish
-- [ ] Better scripts
+- [x] Customizable UI
+- [x] More polish
+- [x] Better scripts
 - [ ] Additional themes
 - [ ] Documentation improvements
 
