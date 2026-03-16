@@ -43,10 +43,10 @@
 
 <h2 align="center">✨ Features</h2>
 
-- Clean, distraction-free layout
+- Clean, distraction free layout
 - Poetic and minimal design language
 - Subtle, smooth animations
-- Matugen & fabric-powered dynamic colors
+- Matugen powered dynamic colors
 - Carefully tuned keybindings
 - Easy to extend and customize
 
