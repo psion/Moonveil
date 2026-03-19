@@ -184,12 +184,12 @@ Install the following packages for the setup to work as intended.
 - [x] SwayNC
 - [x] Wlogout
 - [x] Calendar
-- [x] Clipboard Manager
-- [x] Emoji Picker
 - [x] Color Picker
 - [x] Customizable UI
 - [x] More polish
 - [x] Better scripts
+- [ ] Clipboard Manager
+- [ ] Emoji Picker
 - [ ] Additional themes
 - [ ] Documentation improvements
 
