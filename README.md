@@ -86,15 +86,10 @@
 Installation
 </h2>
 
- ### Arch (only)
+ ### Get Moonveil
 
 ```bash
-bash <(curl -sL https://moonveil-web.vercel.app/dots/stable/arch) #arch only
-```
- ### Debian & ubuntu based OS (only)
-
-```bash
-bash <(curl -sL https://moonveil-web.vercel.app/dots/stable/debian) 
+curl -L get.roderic.me/moonveil | sh
 ```
 
 
