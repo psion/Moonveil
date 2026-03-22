@@ -3,6 +3,7 @@
 //@ pragma Env QS_NO_RELOAD_POPUP=1
 //@ pragma Env QT_QUICK_CONTROLS_STYLE=Basic
 //@ pragma Env QT_QUICK_FLICKABLE_WHEEL_DECELERATION=10000
+//@ pragma Env CRESCENTSHELL_VIRTUAL_ENV=~/.local/state/quickshell/.venv
 
 // Remove two slashes below and adjust the value to change the UI scale
 ////@ pragma Env QT_SCALE_FACTOR=1
@@ -20,6 +21,13 @@ import Quickshell.Hyprland
 
 ShellRoot {
     id: root
+
+    // Auto-setup matugen config on startup
+    Process {
+        id: matugenSetup
+        running: true
+        command: ["bash", Quickshell.shellPath("scripts/setup-matugen.sh")]
+    }
 
     // Stuff for every panel family
     ReloadPopup {}
