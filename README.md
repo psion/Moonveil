@@ -22,7 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/notcandy001/my-wal">🖼️ Wallpapers</a> •
+  <a href="https://github.com/notcandy001/my-wal">
+    <img src="https://img.shields.io/badge/🖼️_Wallpaper_Collection-click_here-8D748C?style=for-the-badge&labelColor=000000" alt="Wallpapers">
+  </a>
+</p>
 
 -----
 
@@ -49,7 +52,7 @@ curl -L get.roderic.me/moonveil | sh
 ```
 
 > [!IMPORTANT]
-> The only pre-requisite is having **Hyprland** and **Matugen** installed.
+> The only pre-requisite is having **Arch Linux** installed.
 
 > [!NOTE]
 > After installation run `fc-cache -fv` to load the fonts properly.
@@ -58,13 +61,13 @@ curl -L get.roderic.me/moonveil | sh
 
 <h2><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" width="32" height="32" /></sub> Features</h2>
 
-- [x] Matugen powered dynamic colors — everything updates from your wallpaper
-- [x] **CrescentShell** — custom Quickshell bar, sidebars, overview and more
-- [x] Floating notch — time, active window title, media visualizer
+- [x] Matugen powered dynamic colors 
+- [x] **CrescentShell**  
+- [x] Floating notch
 - [x] Cava music visualizer in the notch
-- [x] Barcode lockscreen — unique password visualization
+- [x] Barcode lockscreen 
 - [x] Power profile switcher
-- [x] Wallpaper manager with color generation
+- [x] Wallpaper manager 
 - [x] App launcher and workspace overview
 - [x] Notification center
 - [x] Control center with quick toggles
@@ -93,14 +96,8 @@ If you are having trouble or have any questions:
 ## Credits
 
 - [outfoxxed](https://outfoxxed.me/) for creating Quickshell and the great documentation!
-- [end-4](https://github.com/end-4) for his awesome work. *(And yes, I yoinked a lot of code and GUI from it for quickshell only . 😅)*
+- [end-4](https://github.com/end-4) for his awesome work. *(And yes, I yoinked a lot of code and GUI from it for the Quickshell side. 😅)*
 - [Rexcrazy804](https://github.com/Rexcrazy804) for the barcode lockscreen idea.
- Akaris Jsonc components.
-- **Nisa**  for being the kind of friend who actually listens to all my delusional ideas, helped me fix things, add features, and taught me how stuff works. This whole thing wouldn’t exist without those late night conversations. Thanks :D
+- **Nisa** for being the kind of friend who actually listens to all my delusional ideas, helped me fix things, add features, and taught me how stuff works. This whole thing wouldn’t exist without those late night conversations. Thanks :D
 - And you guys, for trying out Moonveil! 
 
------
-
-<p align="center">
-  Made with 🌙 by <a href="https://github.com/notcandy001">notcandy001</a>
-</p>
