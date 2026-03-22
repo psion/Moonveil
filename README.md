@@ -1,29 +1,28 @@
 <p align="center">
   <a href="https://github.com/notcandy001/Moonveil">
-    <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/cover.png" alt="Moonveil" width="100%" />
+    <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/cover.png" alt="Moonveil" width="60%" />
   </a>
+  <br><br>
+  A <i><b>quiet</b></i>, moonlit Hyprland environment.
 </p>
 
-<h3 align="center">🌙 A quiet, moonlit Hyprland environment</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/notcandy001/moonveil?style=for-the-badge&color=8D748C&logoColor=D9E0EE&labelColor=252733" />
-  <img src="https://img.shields.io/github/stars/notcandy001/moonveil?style=for-the-badge&logo=starship&color=AB6C6A&logoColor=D9E0EE&labelColor=252733" />
-  <a href="https://github.com/notcandy001/crescentshell/tree/master">
-    <img src="https://img.shields.io/badge/shell-CrescentShell-8D748C?style=for-the-badge&logo=gnubash&logoColor=D9E0EE&labelColor=252733" />
+  <a href="https://github.com/notcandy001/moonveil/stargazers">
+    <img src="https://img.shields.io/github/stars/notcandy001/moonveil?style=for-the-badge&logo=github&color=8D748C&logoColor=D9E0EE&labelColor=000000" alt="GitHub stars">
   </a>
-  <br/>
   <a href="https://github.com/notcandy001/moonveil/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/notcandy001/moonveil?style=for-the-badge&color=A1C999&logo=opensourceinitiative&logoColor=D9E0EE&labelColor=252733" />
+    <img src="https://img.shields.io/github/license/notcandy001/moonveil?style=for-the-badge&color=A1C999&logo=opensourceinitiative&logoColor=D9E0EE&labelColor=000000" alt="License">
   </a>
   <a href="https://github.com/notcandy001/moonveil/issues">
-    <img src="https://img.shields.io/github/issues/notcandy001/moonveil?style=for-the-badge&logo=bilibili&color=5E81AC&logoColor=D9E0EE&labelColor=252733" />
+    <img src="https://img.shields.io/github/issues/notcandy001/moonveil?style=for-the-badge&logo=bilibili&color=5E81AC&logoColor=D9E0EE&labelColor=000000" alt="Issues">
+  </a>
+  <a href="https://github.com/notcandy001/crescentshell">
+    <img src="https://img.shields.io/badge/shell-CrescentShell-AB6C6A?style=for-the-badge&logo=gnubash&logoColor=D9E0EE&labelColor=000000" alt="CrescentShell">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/notcandy001/my-wal">🖼️ Wallpaper Collection</a> •
-  <a href="https://github.com/notcandy001/Moonveil/wiki">📖 Wiki</a> •
+  <a href="https://github.com/notcandy001/my-wal">🖼️ Wallpapers</a> •
   <a href="https://github.com/notcandy001/Moonveil/issues">🐛 Issues</a>
 </p>
 
@@ -33,28 +32,7 @@
 
 -----
 
-## 🌙 What is Moonveil?
-
-Moonveil is a carefully crafted Hyprland dotfiles setup built around a clean, minimal aesthetic. It’s designed to stay out of your way — quiet, elegant, and functional.
-
-At its core is **CrescentShell**, a custom [Quickshell](https://quickshell.outfoxxed.me) configuration that powers the bar, lockscreen, sidebars, notifications, and more — all themed dynamically with Matugen.
-
------
-
-## ✨ Features
-
-- 🎨 **Matugen-powered dynamic colors** — everything updates from your wallpaper
-- 🔒 **Barcode lockscreen** — unique password visualization inspired by [Rexcrazy804/Zaphkiel](https://github.com/Rexcrazy804/Zaphkiel)
-- 🎵 **Cava music visualizer** in the notch — reacts to playing media
-- 🖥️ **CrescentShell** — custom Quickshell bar, sidebars, overview, and more
-- 💊 **Floating notch** — shows time, active window, media visualizer
-- ⚡ **Power profile switcher** — quick dropdown in the bar
-- 🌊 **Smooth animations** throughout
-- 🧩 **Modular and easy to extend**
-
------
-
-## 📸 Screenshots
+<h2><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="32" height="32" /></sub> Screenshots</h2>
 
 <div align="center">
   <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/1.png" width="100%" />
@@ -62,7 +40,7 @@ At its core is **CrescentShell**, a custom [Quickshell](https://quickshell.outfo
   <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/2.png" width="32%" />
   <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/3.png" width="32%" />
   <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/4.png" width="32%" />
-  <br/><br/>
+  <br/>
   <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/5.png" width="32%" />
   <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/7.png" width="32%" />
   <img src="https://github.com/notcandy001/Moonveil-asset/blob/main/8.png" width="32%" />
@@ -70,104 +48,62 @@ At its core is **CrescentShell**, a custom [Quickshell](https://quickshell.outfo
 
 -----
 
-## 🚀 Installation
+<h2><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="32" height="32" /></sub> Installation</h2>
 
 ```bash
 curl -L get.roderic.me/moonveil | sh
 ```
 
-> Manual installation instructions coming soon in the [Wiki](https://github.com/notcandy001/Moonveil/wiki).
+> [!IMPORTANT]
+> The only pre-requisite is having **Hyprland** and **Matugen** installed.
+
+> [!NOTE]
+> After installation run `fc-cache -fv` to load the fonts properly.
 
 -----
 
-## 📦 Dependencies
+<h2><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" width="32" height="32" /></sub> Features</h2>
 
-<details>
-<summary>Click to expand</summary>
-
-### Pacman
-
-|Package                  |Purpose                        |
-|-------------------------|-------------------------------|
-|`hyprland`               |Wayland compositor             |
-|`quickshell`             |Shell framework (CrescentShell)|
-|`hyprlock`               |Lock screen fallback           |
-|`grim`                   |Screenshots                    |
-|`nautilus`               |File manager                   |
-|`pavucontrol`            |Audio control                  |
-|`lxappearance`           |GTK theme manager              |
-|`imagemagick`            |Image processing               |
-|`cava`                   |Music visualizer               |
-|`power-profiles-daemon`  |Power profile switching        |
-|`gnome-bluetooth-3.0`    |Bluetooth support              |
-|`python` + `python-*`    |Matugen scripts                |
-|`ttf-libre-barcode`      |Barcode lockscreen font        |
-|`JetBrainsMono Nerd Font`|Terminal font                  |
-|`Noto Fonts Emoji`       |Emoji support                  |
-
-### AUR (via yay)
-
-|Package              |Purpose                                |
-|---------------------|---------------------------------------|
-|`matugen`            |Dynamic color generation (**required**)|
-|`adw-gtk-theme`      |GTK theme                              |
-|`bibata-cursor-theme`|Cursor theme                           |
-|`ttf-geist-mono`     |UI font                                |
-|`ttf-pp-neue-machina`|Display font                           |
-
-
-> Run `fc-cache -fv` after installing fonts.
-
-</details>
-
------
-
-## ⌨️ Keybinds
-
-|Key                     |Action                       |
-|------------------------|-----------------------------|
-|`Super + A`             |Control center (left sidebar)|
-|`Super + N`             |Notifications (right sidebar)|
-|`Super + Tab`           |Workspace overview           |
-|`Super + R`             |App launcher / search        |
-|`Super + L`             |Lock screen                  |
-|`Super + I`             |Settings                     |
-|`Super + /`             |Cheatsheet                   |
-|`Super + Shift + Escape`|Power menu                   |
-|`Super + Shift + S`     |Region screenshot            |
-|`Super + Return`        |Terminal (kitty)             |
-|`Super + Q`             |Close window                 |
-|`Super + E`             |File manager                 |
-|`Super + B`             |Browser                      |
-
------
-
-## 🗺️ Roadmap
-
-- [x] Hyprland setup
-- [x] CrescentShell (Quickshell bar + sidebars)
-- [x] Matugen dynamic colors
-- [x] Barcode lockscreen
-- [x] Cava music visualizer in notch
+- [x] Matugen powered dynamic colors — everything updates from your wallpaper
+- [x] **CrescentShell** — custom Quickshell bar, sidebars, overview and more
+- [x] Floating notch — time, active window title, media visualizer
+- [x] Cava music visualizer in the notch
+- [x] Barcode lockscreen — unique password visualization
 - [x] Power profile switcher
+- [x] Wallpaper manager with color generation
+- [x] App launcher and workspace overview
 - [x] Notification center
-- [x] App launcher / overview
-- [x] Wallpaper switcher
+- [x] Control center with quick toggles
+- [x] Media controls
+- [x] Bluetooth and Wi-Fi management
+- [x] Volume and brightness sliders
+- [x] Screenshot and screen region capture
+- [x] Calendar and todo widget
+- [x] Smooth animations throughout
+- [x] Customizable keybindings
 - [ ] Clipboard manager
 - [ ] Emoji picker
 - [ ] Dashboard widget
-- [ ] Documentation / Wiki
-- [ ] Additional color schemes
 
 -----
 
-## 💙 Credits
+## I need help!
 
-Moonveil is built on the shoulders of some incredible work:
+If you are having trouble or have any questions:
 
-- **[end-4](https://github.com/end-4/dots-hyprland)** — For his awesome works and  I learned a lot from it. (And yoinked a lot of code and GUI, too for quickshell only. 😅)
-- **[Hyprland Community](https://github.com/hyprwm)** — For an outstanding Wayland compositor.
-- **[Quickshell](https://quickshell.outfoxxed.me)** — The shell framework powering CrescentShell.
+- Open an issue on the [GitHub repository](https://github.com/notcandy001/Moonveil/issues).
+- The main configuration is located at `~/.config/quickshell/CrescentShell`.
+
+-----
+
+## Credits
+
+- [outfoxxed](https://outfoxxed.me/) for creating Quickshell and the great documentation!
+- [end-4](https://github.com/end-4) for his awesome dots-hyprland project. *(And yes, I yoinked a lot of code and GUI from it. 😅)*
+- [Rexcrazy804](https://github.com/Rexcrazy804) for the barcode lockscreen idea from [Zaphkiel](https://github.com/Rexcrazy804/Zaphkiel).
+- [aadritobasu](https://github.com/aadritobasu) for Akaris Jsonc components.
+- **Nisa** — for being the kind of friend who actually listens to all my delusional ideas, helped me fix things, add features, and taught me how stuff works. This whole thing wouldn’t exist without those late night conversations. 🌙
+- And you, the guys, for trying out Moonveil! 
 
 -----
 
