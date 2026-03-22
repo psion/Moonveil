@@ -23,12 +23,6 @@
 
 <p align="center">
   <a href="https://github.com/notcandy001/my-wal">🖼️ Wallpapers</a> •
-  <a href="https://github.com/notcandy001/Moonveil/issues">🐛 Issues</a>
-</p>
-
-
-> [!CAUTION]
-> **Matugen is required.** Moonveil relies on dynamic color generation and will not function correctly without it.
 
 -----
 
