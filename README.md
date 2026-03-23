@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/notcandy001/moonveil/stargazers">
-    <img src="https://img.shields.io/github/stars/notcandy001/moonveil?style=for-the-badge&logo=github&color=8D748C&logoColor=D9E0EE&labelColor=000000" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/notcandy001/moonveil?style=for-the-logo=starship&color=8D748C&logoColor=D9E0EE&labelColor=000000" alt="GitHub stars">
   </a>
   <a href="https://github.com/notcandy001/moonveil/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/notcandy001/moonveil?style=for-the-badge&color=A1C999&logo=opensourceinitiative&logoColor=D9E0EE&labelColor=000000" alt="License">
