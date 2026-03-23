@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/notcandy001/my-wal">
-    <img src="https://img.shields.io/badge/🖼️_Wallpaper_Collection-click_here-8D748C?style=for-the-badge&labelColor=000000" alt="Wallpapers">
+    <img src="https://img.shields.io/badge/Wallpaper%20Collection-click%20here-8D748C?style=for-the-badge&logo=github&logoColor=black" alt="Wallpapers">
   </a>
 </p>
 
