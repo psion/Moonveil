@@ -261,7 +261,7 @@ git -C "$MOONVEIL_DIR" pull > /tmp/moonveil-install.log 2>&1
 success "Moonveil updated"
 else
 git clone --depth=1 https://github.com/notcandy001/moonveil.git
-"$MOONVEIL_DIR" > /tmp/moonveil-install.log 2>&1
+ls "$MOONVEIL_DIR" > /tmp/moonveil-install.log 2>&1
 success "Moonveil cloned"
 fi
 
@@ -271,8 +271,8 @@ if [ -d "$WALL_DIR/.git" ]; then
 git -C "$WALL_DIR" pull > /tmp/moonveil-install.log 2>&1
 success "Wallpapers updated"
 else
-git clone --depth=1 https://github.com/notcandy001/my-wal.git
-"$WALL_DIR" > /tmp/moonveil-install.log 2>&1
+git clone --depth=1 https://github.com/notcandy001/my-wal.git "$WALL_DIR"
+ls "$WALL_DIR" > /tmp/moonveil-install.log 2>&1
 success "Wallpapers cloned → ~/wallpaper"
 fi
 fi
@@ -357,7 +357,7 @@ success "Font cache refreshed"
 if [[ "$INSTALL_OPTS" == *"autostart"* ]]; then
 HYPR_AUTOSTART="$HOME/.config/hypr/modules/autostart.conf"
 if [ -f "$HYPR_AUTOSTART" ]; then
-sed -i ‘/quickshell/d’ "$HYPR_AUTOSTART"
+sed -i '/quickshell/d' "$HYPR_AUTOSTART"
 echo "exec-once = qs -p ~/.config/quickshell/CrescentShell/shell.qml"
 >> "$HYPR_AUTOSTART"
 success "CrescentShell autostart configured"
@@ -372,7 +372,7 @@ fi
 
 # ============================================================
 
-whiptail --title "🌙 Installation Complete!" --msgbox /
+whiptail --title "🌙 Installation Complete!" --msgbox \
 "Moonveil has been installed successfully!
 
 Moonveil     →  ~/moonveil
