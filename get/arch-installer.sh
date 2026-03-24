@@ -241,8 +241,8 @@ whiptail --title "🌙 Moonveil" --infobox "Installing Moonveil packages…\nThi
         "Package installation failed.\nCheck /tmp/moonveil-install.log" $H $W
     exit 1
 }
-success "All packages installed"
 ```
+success "All packages installed"
 
 fi
 
